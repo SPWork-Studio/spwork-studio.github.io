@@ -7,14 +7,14 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Docs Demo",
-      description: "A docs demo for vuepress-theme-hope",
-    },
-    "/zh/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "SparkPixel server",
+      description: "一个我的世界MTR服务器",
+    },
+    "/en/": {
+      lang: "en-US",
+      title: "SparkPixel server",
+      description: "Minecraft Server / Minecraft Transit Railway Server",
     },
   },
 
